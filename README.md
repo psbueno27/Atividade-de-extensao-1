@@ -1,14 +1,14 @@
 # Atividade de extensao 1
 
-Nome do E-commerce:
+Nome do E-commerce: Omi Shop
 
-- Integrante (Líder) 1:
-- Integrante 2:
-- Integrante 3:
-- Integrante 4:
-- Integrante 5:
+- Integrante (Líder) 1: `Pedro de Souza Bueno`
+- Integrante 2: `Juan Pablo da Silva Siqueira`
+- Integrante 3: `Daniel de Souza Lima`
+- Integrante 4: `João Pedro Ferreira Oliveira`
+- Integrante 5: `Carlos Eduardo Galdino Sousa`
 
-Tecnologias usadas:
+Tecnologias usadas: GitHub, VS Code
 
 Tipo de licença: Este repositório é de uso livre.
 
