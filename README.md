@@ -1,6 +1,6 @@
 # Atividade de extensao 1
 
-Nome do E-commerce: Omi Shop
+Nome do E-commerce: Kick Shop
 
 - Integrante (Líder) 1: `Pedro de Souza Bueno`
 - Integrante 2: `Juan Pablo da Silva Siqueira`
