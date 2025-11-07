@@ -8,7 +8,7 @@ Nome do E-commerce: Omi Shop
 - Integrante 4: `João Pedro Ferreira Oliveira`
 - Integrante 5: `Carlos Eduardo Galdino Sousa`
 
-Tecnologias usadas: `GitHub`, `VS Code`
+Tecnologias usadas: `PHP`, `Python`, `Html`, `JavaScript`, `CSS`
 
 Tipo de licença: Este repositório é de uso livre.
 
